@@ -20,19 +20,23 @@ Running this script creates the figures in `Figures\` directory.
 ### `Figures/`
 
 This directory contains the figures generated using Plots.py on the full mutation dataset.
-
+<br><br>
+<br><br>
 
 ![Figure 1](Figures/Figure1.png)
 **1. Heatmap of clonal and subclonal CNV signatures extracted using Sigminer (N = 227).**
-
+<br><br>
+<br><br>
 
 ![Figure 2](Figures/Figure2.png)
 **2. Differential activity of CNV signatures between subclonal and clonal compartments (N = 277).**
-
+<br><br>
+<br><br>
 
 ![Figure 3](Figures/Figure3.png)
 **3. Prevalence of CNV signatures in clonal and subclonal compartments (N = 277).**
-
+<br><br>
+<br><br>
 
 ![Figure 4](Figures/Figure4.png)
 **4. Co-occurrence patterns of CNV signatures in clonal and subclonal compartments (N = 277).**
