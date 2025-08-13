@@ -17,10 +17,11 @@ Dependencies: matplotlib (version 3.4.3), pandas (version 1.3.5) and seabron (ve
 ### `Figures/`
 
 This directory contains the figures generated using RUN.py on the full mutation dataset.
-
+<br><br>
+<br><br>
 
 ![Figure 1](Figures/Figure1.png)
-*1. Distribution of CNV event counts by genotype state and segment length extracted with SigProfilerPlotting.*
+**1. Distribution of CNV event counts by genotype state and segment length extracted with SigProfilerPlotting.**
 
 ---
 
