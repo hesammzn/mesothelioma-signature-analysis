@@ -34,15 +34,15 @@ This directory contains the figures generated using Plots.py on the full mutatio
 
 ![Figure 1](Figures/Figure1.png)
 **1. Heatmaps showing the relative contribution of SBS signatures in clonal and subclonal segments from 277 mesothelioma patient samples, extracted with SigProfilerAssignment.**
-
+<br><br>
 
 ![Figure 2](Figures/Figure2.png)
 **2. Comparison of SBS signature activities between subclonal and clonal segments across 277 samples**
-
+<br><br>
 
 ![Figure 3](Figures/Figure3.png)
 **3. Bar plot showing the prevalence of SBS signatures in clonal (navy) and subclonal (purple) segments, defined as the percentage of samples in which the signature’s contribution exceeded 5% (N = 277).**
-
+<br><br>
 
 ![Figure 4](Figures/Figure4.png)
 **Spearman correlation heatmaps showing pairwise associations between SBS signature activities in clonal and subclonal segments (N = 277).**
