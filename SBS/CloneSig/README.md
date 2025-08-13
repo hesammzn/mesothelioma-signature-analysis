@@ -31,8 +31,14 @@ Includes the script and code blocks to generate the fiugres from the tables gene
 This directory contains the figures generated using Plots.py on the full mutation dataset.
 
 
+
+
+
 ![Figure 1](Figures/Figure1.png)
 **1. Heatmaps showing SBS signature activities in clonal and subclonal segments as extracted by CloneSig across 277 patient samples.**
+
+
+
 
 
 ![Figure 2](Figures/Figure2.png)
