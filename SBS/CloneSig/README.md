@@ -36,7 +36,6 @@ This directory contains the figures generated using Plots.py on the full mutatio
 **1. Heatmaps showing SBS signature activities in clonal and subclonal segments as extracted by CloneSig across 277 patient samples.**
 <br><br>
 <br><br>
-<br><br>
 
 ![Figure 2](Figures/Figure2.png)
 **2. Differences in SBS signature activities between subclonal and clonal segments as identified by CloneSig.**
