@@ -20,7 +20,8 @@ Outputs of running this tool will be a table with sample names as columns and SB
 ### `Figures/`
 
 This directory contains the figure generated using RUN.R on the full mutation dataset.
-
+<br><br>
+<br><br>
 
 ![Figure 1](Figures/Figure1.png)
 **1. MutationalPatterns-derived SBS signature contributions in clonal and subclonal segments.**
