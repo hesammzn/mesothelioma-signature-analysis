@@ -51,7 +51,7 @@ This directory contains the figures generated using Plots.py on the full mutatio
 <br><br>
 
 ![Figure 4](Figures/Figure4.png)
-**Spearman correlation heatmaps showing pairwise associations between SBS signature activities in clonal and subclonal segments (N = 277).**
+**4. Spearman correlation heatmaps showing pairwise associations between SBS signature activities in clonal and subclonal segments (N = 277).**
 
 ---
 
