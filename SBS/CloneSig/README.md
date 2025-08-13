@@ -40,9 +40,6 @@ This directory contains the figures generated using Plots.py on the full mutatio
 
 ![Figure 2](Figures/Figure2.png)
 **2. Differences in SBS signature activities between subclonal and clonal segments as identified by CloneSig.**
-<br><br>
-<br><br>
-<br><br>
 
 ---
 
