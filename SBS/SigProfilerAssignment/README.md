@@ -30,11 +30,11 @@ Includes the script and code blocks to generate figures from output table.
 ### `Figures/`
 
 This directory contains the figures generated using Plots.py on the full mutation dataset.
-
+<br><br>
+<br><br>
 
 ![Figure 1](Figures/Figure1.png)
 **1. Heatmaps showing the relative contribution of SBS signatures in clonal and subclonal segments from 277 mesothelioma patient samples, extracted with SigProfilerAssignment.**
-<br><br>
 <br><br>
 <br><br>
 
@@ -42,11 +42,9 @@ This directory contains the figures generated using Plots.py on the full mutatio
 **2. Comparison of SBS signature activities between subclonal and clonal segments across 277 samples**
 <br><br>
 <br><br>
-<br><br>
 
 ![Figure 3](Figures/Figure3.png)
 **3. Bar plot showing the prevalence of SBS signatures in clonal (navy) and subclonal (purple) segments, defined as the percentage of samples in which the signature’s contribution exceeded 5% (N = 277).**
-<br><br>
 <br><br>
 <br><br>
 
