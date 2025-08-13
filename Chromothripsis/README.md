@@ -17,18 +17,21 @@ Dependencies: GenomicRanges (version 1.58.0), mclust (version 6.1.1), and hdp (v
 ### `Figures/`
 
 This directory contains the figures generated using RUN.py on the full mutation dataset. Only clonal figures are included in this directory.
-
+<br><br>
+<br><br>
 
 ![Figure 1](Figures/Figure1.png)
-*1. Overall de novo CN-feature counts.*
-
+**1. Overall de novo CN-feature counts.**
+<br><br>
+<br><br>
 
 ![Figure 2](Figures/Figure2.png)
-*2. De novo copy-number (CN) signatures obtained based on (Maclachlan et al., 2021) paper.*
-
+**2. De novo copy-number (CN) signatures obtained based on (Maclachlan et al., 2021) paper.**
+<br><br>
+<br><br>
 
 ![Figure 3](Figures/Figure3.png)
-*3. Per-sample exposure to chromothripsis-associated de novo CN signatures.*
+**3. Per-sample exposure to chromothripsis-associated de novo CN signatures.**
 
 ---
 
