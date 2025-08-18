@@ -2,7 +2,7 @@
 
 
 ### `Example_Input.txt`
-Example of a mutation table which can be used in running MutationalPattenrs. 
+Example of a mutation table which can be used in running MutationalPatterns. 
 
 ---
 
