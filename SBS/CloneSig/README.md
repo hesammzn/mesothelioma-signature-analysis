@@ -10,7 +10,7 @@ An example of mutation table which can be used for CloneSig.
 ### `RUN.py`
 
 Includes the script for running CloneSig (version 0.1), given that it is previously installed.
-Dependencies: Numpy (version 1.21.6), pandas (version 1.3.5) and scikit-learn (version 0.20.4) 
+Dependencies: NumPy (version 1.21.6), pandas (version 1.3.5) and scikit-learn (version 0.20.4) 
 
 ---
 
