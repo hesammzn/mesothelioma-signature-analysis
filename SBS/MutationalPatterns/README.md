@@ -7,7 +7,7 @@ Example of a mutation table which can be used in running MutationalPatterns.
 ---
 
 ### `RUN.R`
-Includes the R script for running MutationalPattenrs (version 3.16.0) and plotting the results.
+Includes the R script for running MutationalPatterns (version 3.16.0) and plotting the results.
 Dependencies: GenomicRanges (version 1.24.0) and NMF (version 0.20.6). 
 
 ---
