@@ -10,7 +10,7 @@ Example of a mutation table which can be used in running panConusig.
 ### `RUN.R`
 
 Includes the R script for running panConusig (version 0.1.0).
-Dependencies: GenomicRanges (version 1.58.0), parallel (version 4.4.3), pbmcapply (version 1.5.1), and stringr (version 1.5.1), 
+Dependencies: GenomicRanges (version 1.58.0), pbmcapply (version 1.5.1), and stringr (version 1.5.1), 
 
 ---
 
