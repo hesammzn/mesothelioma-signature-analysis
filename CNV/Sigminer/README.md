@@ -2,7 +2,7 @@
 
 
 ### `Example_Input.txt`
-Example of a CNV classification table which can be used in running panConusig. 
+Example of a CNV classification table which can be used for running panConusig. 
 
 ---
 
