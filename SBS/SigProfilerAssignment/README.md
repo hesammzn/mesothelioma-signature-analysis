@@ -10,7 +10,7 @@ Results from SigProfilerMatrixGenerator should be used in this tool, particularl
 ### `RUN.py`
 
 Includes the script for running SigProfilerAssignment (version 0.0.19), given that it is previously installed.
-Dependencies: Numpy (version 1.21.6), pandas (version 1.3.5) and scipy (version 1.7.3) 
+Dependencies: NumPy (version 1.21.6), pandas (version 1.3.5) and scipy (version 1.7.3) 
 
 ---
 
