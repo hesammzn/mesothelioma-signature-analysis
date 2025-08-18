@@ -8,7 +8,7 @@ Example of a mutation table which can be used in running SigProfilerMatrixGenera
 
 ### `RUN.py`
 Includes the script for running SigProfilerMatrixGenerator (version 1.2.13), given that it is previously installed.
-Dependencies: Numpy (version 1.21.6), pandas (version 1.3.5) and scipy (version 1.7.3) 
+Dependencies: NumPy (version 1.21.6), pandas (version 1.3.5) and scipy (version 1.7.3) 
 
 ---
 
